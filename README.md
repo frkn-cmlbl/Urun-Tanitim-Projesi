@@ -22,11 +22,7 @@ In this project the goal is to create a desktop application which fulfil the nee
 <a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping2.jpg" target="_blank">
 <img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping2.jpg" width="200" style="max-width:100%;"></a>
   
- <a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping3.jpg" target="_blank">
-<img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping3.jpg" width="200" style="max-width:100%;"></a>
-  
-<a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping4.jpg" target="_blank">
-<img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping4.jpg" width="200" style="max-width:100%;"></a>
+ 
   
  <a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping5.jpg" target="_blank">
 <img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping5.jpg" width="200" style="max-width:100%;"></a>
@@ -36,6 +32,12 @@ In this project the goal is to create a desktop application which fulfil the nee
   
  <a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping7.jpg" target="_blank">
 <img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping7.jpg" width="200" style="max-width:100%;"></a>
+  
+  <a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping3.jpg" target="_blank">
+<img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping3.jpg" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping4.jpg" target="_blank">
+<img src="https://github.com/frkn-cmlbl/Urun-Tanitim-Projesi/blob/main/img/shopping4.jpg" width="200" style="max-width:100%;"></a>
   
 
 </p>
